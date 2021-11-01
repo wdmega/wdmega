@@ -1,7 +1,5 @@
 ### Olá !! Sou o Weslley Daniel
 
-Here are some ideas to get you started:
-
 - 🌱 Estudando front-end com ReactJs e Typescript
 - 📫 Contate-me: weslleydaniel.programming@outlook.com ou weslleydaniel.programming@gmail.com
 
