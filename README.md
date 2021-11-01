@@ -33,8 +33,9 @@ Here are some ideas to get you started:
   <a href ="mailto:weslleydaniel.programming@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="mailto:weslleydaniel.programming@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weslley-lima-5a33b6210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/wdmega/wdmega/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
   
-##
-  
-![Snake animation](https://github.com/wdmega/wdmega/blob/output/github-contribution-grid-snake.svg)
+
