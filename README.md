@@ -1,4 +1,4 @@
-### Olá !! Sou o Weslley Daniel
+### <p align="center"> Olá !! Sou o Weslley Daniel </p>
 
 - 🌱 Estudando front-end com ReactJs e Typescript
 - 📫 Contate-me: weslleydaniel.programming@outlook.com ou weslleydaniel.programming@gmail.com
